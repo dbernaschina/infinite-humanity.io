@@ -2,14 +2,14 @@
 /* Body */
 body {
 	font-family: source-sans-pro;
-	background: url('../img/bg-hands.gif') repeat left top;
 	margin: 0px;
 	font-style: normal;
 	font-weight: 200;
-	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+	
+	background-image: linear-gradient(to top, rgba(19, 21, 25, 0.498039), rgba(19, 21, 25, 0.498039)), url("../img/bg-hands.gif");
+	background-position: 50% 50%, 50% 50%;
+	background-repeat: repeat;
+	background-size: auto, /*256px 256px*/;
 }
 /* Container */
 .container {
