@@ -1,0 +1,16 @@
+span.title-ih {
+	color:#000000;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-shadow: #FFFCA8 2px 2px 0px, #9C9C9C 4px 4px 0px, 3px 5px 2px #ffffff;
+	letter-spacing: 2px;
+}
+
+span.author-ih {
+	color: rgba(0,0,0,.6);
+	background: #6e6e6e;
+	text-shadow: 3px 2px 3px rgba(255,255,255,.2);
+	opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+
