@@ -5,12 +5,6 @@ body {
 	margin: 0px;
 	font-style: normal;
 	font-weight: 200;
-	
-	background: url(../img/bg-hands.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 /* Container */
 .container {
