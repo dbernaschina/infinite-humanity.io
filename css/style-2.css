@@ -1,11 +1,6 @@
-html {
-	background: url(../img/bg-hands.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+html, body {background-color: black;}
 
+.bg-hands {display:block;margin:auto;}
 
 span.title-ih {
 	color:#000000;

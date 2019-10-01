@@ -26,9 +26,8 @@ header {
 }
 /* Hero Section */
 .hero {
-	background: url(../img/bg-u-v.png) no-repeat;
-	padding-top: 150px;
-	padding-bottom: 150px;
+	/*padding-top: 150px;
+	padding-bottom: 150px;*/
 }
 .light {
 	font-weight: bold;
@@ -60,11 +59,6 @@ header {
 	padding-top: 35px;
 	display: inline-block;
 	margin-top: 0px;
-	/*background: 
-		url(../img/022.jpeg) no-repeat top left,
-		url(../img/094.jpeg) no-repeat top right,
-	    url(../img/133.jpeg) no-repeat bottom left,
-		url(../img/147.jpeg) no-repeat bottom right;*/
 }
 /* Stats Gallery */
 .stats {
