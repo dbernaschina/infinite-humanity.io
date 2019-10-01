@@ -1,6 +1,6 @@
 html, body {background-color: black;}
 
-.bg-hands {display:block;margin:auto;}
+.bg-hands {display:inherit;margin:auto;}
 
 span.title-ih {
 	color:#000000;
