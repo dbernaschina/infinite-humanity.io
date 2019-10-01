@@ -85,8 +85,8 @@ header {
 }
 /* Parallax Section */
 .banner {
-	background-color: #2D9AB7;
-	background-image: url(../img/parallax.png);
+	/*background-color: #2D9AB7;
+	background-image: url(../img/parallax.png);*/
 	height: 400px;
 	background-attachment: fixed;
 	background-size: cover;
