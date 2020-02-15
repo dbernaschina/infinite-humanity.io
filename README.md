@@ -1,7 +1,7 @@
 # infinite-humanity.io
 Diego Bernaschina's artwork © 2017-2019
 
-Only the sample of the web art (net.art) for the exhibition of the New Biennial of Digital Art "The Wrong" of 2019-2020 set of Sqatting the Internet (squatted.online).
+Only the sample of the web art (net.art) for the exhibition of the [place].
 
 DESCRIPTION:
 
